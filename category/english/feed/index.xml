@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>English &#8211; (L)enguaged</title>
+	<atom:link href="https://jeremspy.github.io/passion/category/english/feed/" rel="self" type="application/rss+xml" />
+	<link>https://jeremspy.github.io/passion</link>
+	<description>Engaged in Language</description>
+	<lastBuildDate>Tue, 28 Aug 2018 10:00:12 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.8</generator>
+
+<image>
+	<url>https://jeremspy.github.io/passion/wp-content/uploads/2018/08/photo.jpg</url>
+	<title>English &#8211; (L)enguaged</title>
+	<link>https://jeremspy.github.io/passion</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>English</title>
+		<link>https://jeremspy.github.io/passion/2018/08/28/english/</link>
+		<comments>https://jeremspy.github.io/passion/2018/08/28/english/#respond</comments>
+		<pubDate>Tue, 28 Aug 2018 04:36:27 +0000</pubDate>
+		<dc:creator><![CDATA[root]]></dc:creator>
+				<category><![CDATA[English]]></category>
+
+		<guid isPermaLink="false">https://jeremspy.github.io/passion/?p=33</guid>
+		<description><![CDATA[English, what to say? As far back as I can remember, I&#8217;ve always learned English, listening songs, early at school, and I always love it.]]></description>
+				<content:encoded><![CDATA[		<div class="elementor elementor-33">
+			<div class="elementor-inner">
+				<div class="elementor-section-wrap">
+							<section data-id="90daef5" class="elementor-element elementor-element-90daef5 elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;}" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+				<div class="elementor-row">
+				<div data-id="7bc815a" class="elementor-element elementor-element-7bc815a elementor-column elementor-col-100 elementor-top-column" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div data-id="28faa62" class="elementor-element elementor-element-28faa62 elementor-widget elementor-widget-image" data-element_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="1920" height="1080" src="https://jeremspy.github.io/passion/wp-content/uploads/2018/08/statueOfLiberty.jpg" class="attachment-full size-full" alt="" srcset="https://jeremspy.github.io/passion/wp-content/uploads/2018/08/statueOfLiberty.jpg 1920w, https://jeremspy.github.io/passion/wp-content/uploads/2018/08/statueOfLiberty-300x169.jpg 300w, https://jeremspy.github.io/passion/wp-content/uploads/2018/08/statueOfLiberty-768x432.jpg 768w, https://jeremspy.github.io/passion/wp-content/uploads/2018/08/statueOfLiberty-1024x576.jpg 1024w" sizes="(max-width: 1920px) 100vw, 1920px" />											</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section data-id="ecb75a9" class="elementor-element elementor-element-ecb75a9 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div data-id="f7c9be5" class="elementor-element elementor-element-f7c9be5 elementor-column elementor-col-100 elementor-top-column" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div data-id="b3f8ace" class="elementor-element elementor-element-b3f8ace elementor-widget elementor-widget-heading" data-element_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">English, what to say?</h2>		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section data-id="ee3ac1a" class="elementor-element elementor-element-ee3ac1a elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div data-id="034dbb9" class="elementor-element elementor-element-034dbb9 elementor-column elementor-col-100 elementor-top-column" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div data-id="f378b94" class="elementor-element elementor-element-f378b94 elementor-widget elementor-widget-text-editor" data-element_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p>As far back as I can remember, I&#8217;ve always learned English, listening songs, early at school, and I always love it.</p></div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+						</div>
+			</div>
+		</div>
+		]]></content:encoded>
+			<wfw:commentRss>https://jeremspy.github.io/passion/2018/08/28/english/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		</item>
+	</channel>
+</rss>
