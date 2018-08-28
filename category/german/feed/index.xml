@@ -9,8 +9,8 @@
 
 <channel>
 	<title>German &#8211; (L)enguaged</title>
-	<atom:link href="https://jeremspy.github.io/passion/category/german/feed/" rel="self" type="application/rss+xml" />
-	<link>https://jeremspy.github.io/passion</link>
+	<atom:link href="https://JeremSpy.github.io/passion/category/german/feed/" rel="self" type="application/rss+xml" />
+	<link>https://JeremSpy.github.io/passion</link>
 	<description>Engaged in Language</description>
 	<lastBuildDate>Tue, 28 Aug 2018 10:00:12 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -19,21 +19,21 @@
 	<generator>https://wordpress.org/?v=4.9.8</generator>
 
 <image>
-	<url>https://jeremspy.github.io/passion/wp-content/uploads/2018/08/photo.jpg</url>
+	<url>https://JeremSpy.github.io/passion/wp-content/uploads/2018/08/photo.jpg</url>
 	<title>German &#8211; (L)enguaged</title>
-	<link>https://jeremspy.github.io/passion</link>
+	<link>https://JeremSpy.github.io/passion</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>German</title>
-		<link>https://jeremspy.github.io/passion/2018/08/28/german/</link>
-		<comments>https://jeremspy.github.io/passion/2018/08/28/german/#respond</comments>
+		<link>https://JeremSpy.github.io/passion/2018/08/28/german/</link>
+		<comments>https://JeremSpy.github.io/passion/2018/08/28/german/#respond</comments>
 		<pubDate>Tue, 28 Aug 2018 04:36:27 +0000</pubDate>
 		<dc:creator><![CDATA[root]]></dc:creator>
 				<category><![CDATA[German]]></category>
 
-		<guid isPermaLink="false">https://jeremspy.github.io/passion/?p=34</guid>
+		<guid isPermaLink="false">https://JeremSpy.github.io/passion/?p=34</guid>
 		<description><![CDATA[German, the commercial langage It&#8217;s been a while that I want to learn German, since I&#8217;m at secondary school, but we learn Spanish instead. I&#8217;d love to continue. Well, what can I say?Maybe I can write some words in Spanish and the equivalent in English.. Hallo. Auf Wiedersehen! Wie geht es dir? Bitte. Vielen Dank! [&#8230;]]]></description>
 				<content:encoded><![CDATA[		<div class="elementor elementor-34">
 			<div class="elementor-inner">
@@ -47,7 +47,7 @@
 				<div data-id="4552153" class="elementor-element elementor-element-4552153 elementor-widget elementor-widget-image" data-element_type="image.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-image">
-										<img width="1920" height="1080" src="https://jeremspy.github.io/passion/wp-content/uploads/2018/08/brandenburgGate.jpg" class="attachment-full size-full" alt="" srcset="https://jeremspy.github.io/passion/wp-content/uploads/2018/08/brandenburgGate.jpg 1920w, https://jeremspy.github.io/passion/wp-content/uploads/2018/08/brandenburgGate-300x169.jpg 300w, https://jeremspy.github.io/passion/wp-content/uploads/2018/08/brandenburgGate-768x432.jpg 768w, https://jeremspy.github.io/passion/wp-content/uploads/2018/08/brandenburgGate-1024x576.jpg 1024w" sizes="(max-width: 1920px) 100vw, 1920px" />											</div>
+										<img width="1920" height="1080" src="https://JeremSpy.github.io/passion/wp-content/uploads/2018/08/brandenburgGate.jpg" class="attachment-full size-full" alt="" srcset="https://JeremSpy.github.io/passion/wp-content/uploads/2018/08/brandenburgGate.jpg 1920w, https://JeremSpy.github.io/passion/wp-content/uploads/2018/08/brandenburgGate-300x169.jpg 300w, https://JeremSpy.github.io/passion/wp-content/uploads/2018/08/brandenburgGate-768x432.jpg 768w, https://JeremSpy.github.io/passion/wp-content/uploads/2018/08/brandenburgGate-1024x576.jpg 1024w" sizes="(max-width: 1920px) 100vw, 1920px" />											</div>
 				</div>
 				</div>
 						</div>
@@ -121,7 +121,7 @@
 			</div>
 		</div>
 		]]></content:encoded>
-			<wfw:commentRss>https://jeremspy.github.io/passion/2018/08/28/german/feed/</wfw:commentRss>
+			<wfw:commentRss>https://JeremSpy.github.io/passion/2018/08/28/german/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 		</item>
 	</channel>
